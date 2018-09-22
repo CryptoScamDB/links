@@ -14,3 +14,6 @@
 - Docker - https://hub.docker.com/u/cryptoscamdb/
 - Github - https://github.com/CryptoScamDB
 - NPM - https://www.npmjs.com/org/cryptoscamdb
+
+## Donation addresses
+- Ethereum - [cryptoscamdb.eth](https://etherscan.io/address/cryptoscamdb.eth)
