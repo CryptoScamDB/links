@@ -30,6 +30,7 @@
 - [CryptoScamDB/assets](https://github.com/CryptoScamDB/assets)
 - [CryptoScamDB/blacklist](https://github.com/CryptoScamDB/blacklist)
 - [CryptoScamDB/cryptoscamdb.org](https://github.com/CryptoScamDB/cryptoscamdb.org)
+- [CryptoScamDB/docker](https://github.com/CryptoScamDB/docker)
 - [CryptoScamDB/graceful-dns](https://github.com/CryptoScamDB/graceful-dns)
 - [CryptoScamDB/links](https://github.com/CryptoScamDB/links)
 - [CryptoScamDB/whitelist](https://github.com/CryptoScamDB/whitelist)
