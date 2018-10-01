@@ -20,10 +20,12 @@
 - NPM - https://www.npmjs.com/org/cryptoscamdb
 
 ## NPM packages
+- [@cryptoscamdb/api](https://www.npmjs.com/package/@cryptoscamdb/api)
 - [@cryptoscamdb/array-object-dictionary](https://www.npmjs.com/package/@cryptoscamdb/array-object-dictionary)
 - [@cryptoscamdb/graceful-dns](https://www.npmjs.com/package/@cryptoscamdb/graceful-dns)
 
 ## Github repositories
+- [CryptoScamDB/api](https://github.com/CryptoScamDB/api)
 - [CryptoScamDB/array-object-dictionary](https://github.com/CryptoScamDB/array-object-dictionary)
 - [CryptoScamDB/assets](https://github.com/CryptoScamDB/assets)
 - [CryptoScamDB/blacklist](https://github.com/CryptoScamDB/blacklist)
