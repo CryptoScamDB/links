@@ -23,15 +23,19 @@
 - [@cryptoscamdb/api](https://www.npmjs.com/package/@cryptoscamdb/api)
 - [@cryptoscamdb/array-object-dictionary](https://www.npmjs.com/package/@cryptoscamdb/array-object-dictionary)
 - [@cryptoscamdb/graceful-dns](https://www.npmjs.com/package/@cryptoscamdb/graceful-dns)
+- [@cryptoscamdb/web](https://www.npmjs.com/package/@cryptoscamdb/web)
 
 ## Github repositories
 - [CryptoScamDB/api](https://github.com/CryptoScamDB/api)
+- [CryptoScamDB/api.cryptoscamdb.org](https://github.com/CryptoScamDB/api.cryptoscamdb.org)
 - [CryptoScamDB/array-object-dictionary](https://github.com/CryptoScamDB/array-object-dictionary)
 - [CryptoScamDB/assets](https://github.com/CryptoScamDB/assets)
 - [CryptoScamDB/blacklist](https://github.com/CryptoScamDB/blacklist)
 - [CryptoScamDB/cryptoscamdb.org](https://github.com/CryptoScamDB/cryptoscamdb.org)
+- [CryptoScamDB/desktop](https://github.com/CryptoScamDB/desktop)
 - [CryptoScamDB/docker](https://github.com/CryptoScamDB/docker)
 - [CryptoScamDB/graceful-dns](https://github.com/CryptoScamDB/graceful-dns)
+- [CryptoScamDB/lambda](https://github.com/CryptoScamDB/lambda)
 - [CryptoScamDB/links](https://github.com/CryptoScamDB/links)
 - [CryptoScamDB/whitelist](https://github.com/CryptoScamDB/whitelist)
 
